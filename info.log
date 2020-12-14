@@ -1,0 +1,171 @@
+
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Folder with id d4ef1733-d920-4e01-b5f6-3d02f847eddd created","level":"info"}
+{"message":"Folder with id ac9c3967-2aaa-45a6-90d1-51840a5c1213 created","level":"info"}
+{"message":"Folder with id d68be190-91d5-4cf4-9c6d-4b7c529a0004 created","level":"info"}
+{"message":"Folder with id d67d77cf-4a9f-4d7d-ad75-ba40e2d76032 created","level":"info"}
+{"message":"Folder with id d68be190-91d5-4cf4-9c6d-4b7c529a0004 not found.","level":"error"}
+{"message":"Folder with id d68be190-91d5-4cf4-9c6d-4b7c529a0004 not found.","level":"error"}
+{"message":"Folder with id 88befb55-ecdd-445b-83c0-6c9b7b0a5a30 deleted.","level":"info"}
+{"message":"Folder with id d4ef1733-d920-4e01-b5f6-3d02f847eddd deleted.","level":"info"}
+{"message":"Folder with id d4ef1733-d920-4e01-b5f6-3d02f847eddd not found.","level":"error"}
+{"message":"Folder with id 37fd4526-42e0-4052-9e6a-bcdfff6b7abf created","level":"info"}
+{"message":"Folder with id sdfdsf not found.","level":"error"}
+{"message":"Folder with id sdfsdfd not found.","level":"error"}
+{"message":"Folder with id sdfsdfd not found.","level":"error"}
+{"message":"Notewith id sdfsdfd not found.","level":"error"}
+{"message":"Note with id sdfsdfd not found.","level":"error"}
+{"message":"Note with id d67d77cf-4a9f-4d7d-ad75-ba40e2d76032 deleted.","level":"info"}
+{"message":"Note with id b8343830-e8fe-4392-9174-bfc0d68a9237 deleted.","level":"info"}
+{"message":"Note with id b8343830-e8fe-4392-9174-bfc0d68a9 not found.","level":"error"}
+{"message":"Notewith id b8343830-e8fe-4392-9174-bfc0d68a9 not found.","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Folder with id 6763d38f-3a23-4d0b-98b0-2a2916544db0 created","level":"info"}
+{"message":"Folder with id 226df7db-9539-4805-af8f-ce778b2edb43 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /notes","level":"error"}
+{"message":"Unauthorized request to path: /folders","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 362b0dcf-2bb2-4db9-87bb-80e31111050f created","level":"info"}
+{"message":"Folder with id 0db80f40-3525-4d50-8d2d-4caf970b19d2 created","level":"info"}
+{"message":"Note with id 0db80f40-3525-4d50-8d2d-4caf970b19d2 deleted.","level":"info"}
+{"message":"Folder with id 75c4e63c-0cf7-4a56-8bf8-47925debfac2 created","level":"info"}
+{"message":"Folder with id 30afc1ea-d03b-48d4-a161-6087c563d37b created","level":"info"}
+{"message":"Note with id 30afc1ea-d03b-48d4-a161-6087c563d37b deleted.","level":"info"}
+{"message":"Note with id be128483-c0d3-4617-a84d-b1c24c559029 deleted.","level":"info"}
+{"message":"Note with id 32e1f108-480c-448e-975a-a44cfaa8d128 deleted.","level":"info"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Folder with id 52813f11-7838-4758-9843-b0572d588b67 created","level":"info"}
+{"message":"Folder with id e62a6db0-4742-4334-849d-b6b7cbe1b293 created","level":"info"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id e62a6db0-4742-4334-849d-b6b7cbe1b293 deleted.","level":"info"}
+{"message":"Folder with id 2c020f57-8135-49af-a737-a4695773ea8a created","level":"info"}
+{"message":"Note with id 2c020f57-8135-49af-a737-a4695773ea8a deleted.","level":"info"}
+{"message":"Folder with id eef205fd-ebb0-4b79-bd99-34da240ff9e7 created","level":"info"}
+{"message":"Note with id eef205fd-ebb0-4b79-bd99-34da240ff9e7 deleted.","level":"info"}
+{"message":"Folder with id 55b49012-2dcf-43df-9d79-cd4ea5f14add created","level":"info"}
+{"message":"Note with id 55b49012-2dcf-43df-9d79-cd4ea5f14add deleted.","level":"info"}
+{"message":"Folder with id fb9ec4ed-006a-4b59-bace-21606c40027b created","level":"info"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id undefined not found.","level":"error"}
+{"message":"Note with id fb9ec4ed-006a-4b59-bace-21606c40027b deleted.","level":"info"}
+{"message":"Note with id 7eeee8e3-c2b3-41e7-bbad-89cb78e3baf6 deleted.","level":"info"}
+{"message":"Note with id 75c4e63c-0cf7-4a56-8bf8-47925debfac2 deleted.","level":"info"}
+{"message":"Note with id 75c4e63c-0cf7-4a56-8bf8-47925debfac2 not found.","level":"error"}
+{"message":"Note with id 75c4e63c-0cf7-4a56-8bf8-47925debfac2 not found.","level":"error"}
+{"message":"Note with id 75c4e63c-0cf7-4a56-8bf8-47925debfac2 not found.","level":"error"}
+{"message":"Folder with id aececb0a-c97e-4501-b7f3-bb4e6d1dbae9 created","level":"info"}
+{"message":"Folder with id 491437c4-ea9b-44c5-83b8-e04604aac679 created","level":"info"}
+{"message":"Folder with id 7683faf2-37cf-419e-bf8f-e320c5a20937 created","level":"info"}
+{"message":"Note with id 7683faf2-37cf-419e-bf8f-e320c5a20937 deleted.","level":"info"}
+{"message":"Note with id 491437c4-ea9b-44c5-83b8-e04604aac679 deleted.","level":"info"}
+{"message":"Note with id aececb0a-c97e-4501-b7f3-bb4e6d1dbae9 deleted.","level":"info"}
+{"message":"Folder with id 0aa2afdd-cff3-4d8a-b7d6-16eb3d57b6a3 created","level":"info"}
+{"message":"Folder with id 147a04fe-5091-4a12-b6f9-caa86c42fbdc created","level":"info"}
+{"message":"Note with id 147a04fe-5091-4a12-b6f9-caa86c42fbdc deleted.","level":"info"}
+{"message":"Note with id 0aa2afdd-cff3-4d8a-b7d6-16eb3d57b6a3 deleted.","level":"info"}
+{"message":"Folder with id 87ed118a-6277-41d0-8b50-ed434abe6ac3 created","level":"info"}
+{"message":"Folder with id 3f8ee529-58c1-47c0-92fc-0aa79d13761f created","level":"info"}
+{"message":"Folder with id a71aa83b-eada-4a64-897e-ae8ecd99d7b9 created","level":"info"}
+{"message":"Folder with id cad45b77-222c-4097-9354-1e7a8b82220c created","level":"info"}
+{"message":"Note with id cad45b77-222c-4097-9354-1e7a8b82220c deleted.","level":"info"}
+{"message":"Note with id a71aa83b-eada-4a64-897e-ae8ecd99d7b9 deleted.","level":"info"}
+{"message":"Note with id 3f8ee529-58c1-47c0-92fc-0aa79d13761f deleted.","level":"info"}
+{"message":"Note with id 87ed118a-6277-41d0-8b50-ed434abe6ac3 deleted.","level":"info"}
+{"message":"Folder with id 112d21df-1532-4c61-babc-05e0fbaa6d7d created","level":"info"}
+{"message":"Folder with id 6eea0458-dece-40ac-9858-73b259b2ec6f created","level":"info"}
+{"message":"Folder with id fb7ba8a5-99a6-46f4-b905-2a4e4d85d847 created","level":"info"}
+{"message":"Note with id fb7ba8a5-99a6-46f4-b905-2a4e4d85d847 deleted.","level":"info"}
+{"message":"Note with id 6eea0458-dece-40ac-9858-73b259b2ec6f deleted.","level":"info"}
+{"message":"Note with id 112d21df-1532-4c61-babc-05e0fbaa6d7d deleted.","level":"info"}
+{"message":"Folder with id 1f8f3a14-ea59-432e-9d0b-5c4ae54e55a9 created","level":"info"}
+{"message":"Folder with id 6a3419e7-c9da-4de1-90d3-c219de00123b created","level":"info"}
+{"message":"Note with id 6a3419e7-c9da-4de1-90d3-c219de00123b deleted.","level":"info"}
+{"message":"Folder with id 6a3e07ea-3808-4727-a461-4c83c019716b created","level":"info"}
+{"message":"Folder with id b4a0a012-7317-4c95-887c-bbefea4ef86d created","level":"info"}
+{"message":"Note with id b4a0a012-7317-4c95-887c-bbefea4ef86d deleted.","level":"info"}
+{"message":"Note with id 6a3e07ea-3808-4727-a461-4c83c019716b deleted.","level":"info"}
+{"message":"Note with id 6a3e07ea-3808-4727-a461-4c83c019716b not found.","level":"error"}
+{"message":"Note with id 1f8f3a14-ea59-432e-9d0b-5c4ae54e55a9 deleted.","level":"info"}
+{"message":"Note with id 52813f11-7838-4758-9843-b0572d588b67 deleted.","level":"info"}
+{"message":"Note with id 52813f11-7838-4758-9843-b0572d588b67 not found.","level":"error"}
+{"message":"Note with id 04e8f004-d211-442c-accb-d12204263413 deleted.","level":"info"}
+{"message":"Folder with id 748d6bad-234e-423f-95b8-b67215feeb39 created","level":"info"}
+{"message":"Folder with id 7475a152-5e6f-4ba8-a061-fce98904a93e created","level":"info"}
+{"message":"Folder with id c840dfd7-1e12-4090-90dc-7cb30ade4e07 created","level":"info"}
+{"message":"Folder with id 1fe8847b-2839-4b3f-afb0-8d9149189d94 created","level":"info"}
+{"message":"Folder with id b802c801-14ac-40fd-bf13-797ad83f1303 created","level":"info"}
+{"message":"Note with id 748d6bad-234e-423f-95b8-b67215feeb39 deleted.","level":"info"}
+{"message":"Note with id b802c801-14ac-40fd-bf13-797ad83f1303 deleted.","level":"info"}
+{"message":"Note with id 1fe8847b-2839-4b3f-afb0-8d9149189d94 deleted.","level":"info"}
+{"message":"Note with id c840dfd7-1e12-4090-90dc-7cb30ade4e07 deleted.","level":"info"}
+{"message":"Folder with id 19109e99-c2c9-45e8-9fd3-33657000597f created","level":"info"}
+{"message":"Folder with id 7c9bbfe5-5048-44ef-ac96-f2ee0d798021 created","level":"info"}
+{"message":"Folder with id 3489e091-047d-4177-833b-4942eaf949ea created","level":"info"}
+{"message":"Note with id 3489e091-047d-4177-833b-4942eaf949ea deleted.","level":"info"}
+{"message":"Note with id 7c9bbfe5-5048-44ef-ac96-f2ee0d798021 deleted.","level":"info"}
+{"message":"Note with id 19109e99-c2c9-45e8-9fd3-33657000597f deleted.","level":"info"}
+{"message":"Folder with id 20cd2c7e-9110-47b2-ad62-65d04e8d77c5 created","level":"info"}
+{"message":"Note with id 20cd2c7e-9110-47b2-ad62-65d04e8d77c5 deleted.","level":"info"}
+{"message":"Note with id 7475a152-5e6f-4ba8-a061-fce98904a93e deleted.","level":"info"}
+{"message":"Folder with id a9bb730f-18a1-4491-877c-635d8318531c created","level":"info"}
+{"message":"Folder with id 471c44b6-ea9f-41cc-a8db-81f568a33847 created","level":"info"}
+{"message":"Folder with id be22c127-309c-4354-bf4b-576b0ee2715d created","level":"info"}
+{"message":"Folder with id 90b2f106-6143-43a1-bce4-e32d468973ed created","level":"info"}
+{"message":"Note with id 90b2f106-6143-43a1-bce4-e32d468973ed deleted.","level":"info"}
+{"message":"Note with id be22c127-309c-4354-bf4b-576b0ee2715d deleted.","level":"info"}
+{"message":"Note with id 471c44b6-ea9f-41cc-a8db-81f568a33847 deleted.","level":"info"}
+{"message":"Folder with id 76aa49cd-4297-4093-843b-8f5d9235941d created","level":"info"}
+{"message":"Folder with id 0ce78889-8c1b-422a-b810-61b8a4beca5e created","level":"info"}
+{"message":"Folder with id bdf8bb98-7ecf-41d3-a552-45736ab584b8 created","level":"info"}
+{"message":"Folder with id 1f3c234b-90fe-4254-b096-410f5d178d2f created","level":"info"}
+{"message":"Folder with id 587691e0-5a66-4690-8060-96d754c81932 created","level":"info"}
+{"message":"Note with id 587691e0-5a66-4690-8060-96d754c81932 deleted.","level":"info"}
+{"message":"Note with id 1f3c234b-90fe-4254-b096-410f5d178d2f deleted.","level":"info"}
+{"message":"Note with id bdf8bb98-7ecf-41d3-a552-45736ab584b8 deleted.","level":"info"}
+{"message":"Note with id 0ce78889-8c1b-422a-b810-61b8a4beca5e deleted.","level":"info"}
+{"message":"Note with id 76aa49cd-4297-4093-843b-8f5d9235941d deleted.","level":"info"}
+{"message":"Note with id a9bb730f-18a1-4491-877c-635d8318531c deleted.","level":"info"}
+{"message":"Note with id b8343830-e8fe-4392-9174-bfc0d68a9237 deleted.","level":"info"}
+{"message":"Note with id 7eeee8e3-c2b3-41e7-bbad-89cb78e3baf6 deleted.","level":"info"}
+{"message":"Note with id 907cf8f2-fbd1-42ef-8b7b-3f0ff1ea70c4 deleted.","level":"info"}
+{"message":"Note with id 04e8f004-d211-442c-accb-d12204263413 deleted.","level":"info"}
+{"message":"Note with id 32e1f108-480c-448e-975a-a44cfaa8d128 deleted.","level":"info"}
+{"message":"Note with id be128483-c0d3-4617-a84d-b1c24c559029 deleted.","level":"info"}
+{"message":"Folder with id ecf5146e-8198-4844-ad44-6f27a7326965 created","level":"info"}
+{"message":"Folder with id e0f34037-2d99-439f-9d1b-c5967fff8aa8 created","level":"info"}
+{"message":"Folder with id 12befdb7-d9f8-4296-b1ef-5ba82c9d5842 created","level":"info"}
+{"message":"Note with id 12befdb7-d9f8-4296-b1ef-5ba82c9d5842 deleted.","level":"info"}
+{"message":"Note with id e0f34037-2d99-439f-9d1b-c5967fff8aa8 deleted.","level":"info"}
+{"message":"Folder with id 402096a1-fd54-4e60-b1ae-e737cf99b0c4 created","level":"info"}
+{"message":"Note with id 402096a1-fd54-4e60-b1ae-e737cf99b0c4 deleted.","level":"info"}
+{"message":"Note with id ecf5146e-8198-4844-ad44-6f27a7326965 deleted.","level":"info"}
+{"message":"Folder with id 22aa9cd3-759c-4ee3-9050-4a0a980b7abc created","level":"info"}
+{"message":"Folder with id 764097a4-1b04-469d-b90e-c4b1ebdd1019 created","level":"info"}
+{"message":"Note with id 764097a4-1b04-469d-b90e-c4b1ebdd1019 deleted.","level":"info"}
+{"message":"Note with id 22aa9cd3-759c-4ee3-9050-4a0a980b7abc deleted.","level":"info"}
+{"message":"Folder with id 20691097-2b35-4e33-b0b6-bd9d6893e034 created","level":"info"}
+{"message":"Folder with id ec355142-81f7-491d-916e-c86d1fd9a07d created","level":"info"}
+{"message":"Folder with id f28c95cc-0585-4ff4-9d96-a3fa3205a39d created","level":"info"}
+{"message":"Folder with id d7384c52-56c8-4661-9694-917a629877a2 created","level":"info"}
+{"message":"Folder with id 8c271a34-82e4-416e-8905-acbd0deddd8d created","level":"info"}
+{"message":"Note with id 8c271a34-82e4-416e-8905-acbd0deddd8d deleted.","level":"info"}

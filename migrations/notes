@@ -1,0 +1,2 @@
+//below is to create the role
+CREATE ROLE noteful_boss SUPERUSER CREATEDB CREATEROLE INHERIT LOGIN;
