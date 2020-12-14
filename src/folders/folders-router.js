@@ -27,7 +27,6 @@ foldersRouter
         }
         const { folder_name } = req.body
         const newFolder = { folder_id: uuid.v4(), folder_name }
-        console.log(newFolder)
         
         FoldersService.insertNewFolder(req.app.get('db'), newFolder)
         .then(folder => {

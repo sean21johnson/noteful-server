@@ -6,7 +6,7 @@ const helmet = require('helmet')
 const { NODE_ENV } = require('./config')
 const foldersService = require('./folders/folders-service')
 
-const validateToken = require('./validate-token')
+// const validateToken = require('./validate-token')
 const errorHandler = require('./error-handler')
 const foldersRouter = require('./folders/folders-router')
 const notesRouter = require('./notes/notes-router')

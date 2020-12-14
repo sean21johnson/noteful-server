@@ -13,4 +13,4 @@ I utilized the below in creating this application:
 -Knex
 -CORS
 -Helmet
--Error Handlings
+-Error Handling
