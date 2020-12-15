@@ -7,7 +7,7 @@
     "test": "mocha --require test/setup.js",
     "dev": "nodemon src/server.js",
     "migrate": "postgrator --config postgrator-config.js",
-    "migrate:production": "env SSL=true DATABASE_URL=postgres://gdszxfdngkbyfi:6e64a3b71f407a8d86e5cd0a8676ae8bd3a7353048fb2dda8630dc3f2a1cf592@ec2-34-194-198-238.compute-1.amazonaws.com:5432/d51lvlb9neav5p npm run migrate",
+    "migrate:production": "env SSL=true heroku run npm run migrate",
     "start": "node src/server.js",
     "predeploy": "npm audit && npm run migrate:production",
     "deploy": "git push heroku master",
